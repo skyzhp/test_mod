@@ -38,6 +38,8 @@ github.com/skyzhp/util v1.0.1-0.20210702081709-597434b70759 h1:cIe9/f4N9CrN+YM6w
 github.com/skyzhp/util v1.0.1-0.20210702081709-597434b70759/go.mod h1:iLdFxleiItpPyv1ZhC3V6382wfuvgYhqCuspNy38fiU=
 github.com/skyzhp/util v1.0.2 h1:nCnQMjIe27xzZVfsnoCxXe49kxKEDctdp/qnLzd+vyk=
 github.com/skyzhp/util v1.0.2/go.mod h1:iLdFxleiItpPyv1ZhC3V6382wfuvgYhqCuspNy38fiU=
+github.com/skyzhp/util/a v1.0.1 h1:OdGFTjiqid8wujGppwU2MTy19eBJB+kdWAC0N9aQEEE=
+github.com/skyzhp/util/a v1.0.1/go.mod h1:9PhYyCQj+G5stwFfErtei3TavvlAfkbicryBcNmBaQw=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
