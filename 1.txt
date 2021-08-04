@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 fdfsfsfsdffsdfsdfsdfsffasdfssafsafas
-=======
 fsdfsdfsfsfsdffsdfsdfsdafasdfssafsafas
->>>>>>> d49d0e78697d759f1e67b8325ab9d389835d2306
+fsdfsdfsfsfsdffsdfsdfsdafasdfssafsafas
